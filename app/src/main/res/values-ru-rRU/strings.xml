@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork332</string>
+    <string name="langBtn">Изменить Язык</string>
+    <string name="textView">Этот текст написан на Русском языке</string>
+
+    <string-array name="language">
+        <item>EN Английский</item>
+        <item>RU Русский</item>
+
+    </string-array>
+
+</resources>
